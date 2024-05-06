@@ -1,6 +1,7 @@
 # OrdironAutoClaim
 
-Ordiron Auto Claim
+* https://oridron.com/airdrop/profile
+* Auto claim 1 ORD tiap 60 menit/jam
 
 Cara ambil cookie
 - F12 > Network > Cari Profile > Headers > Cookie > Copy Cookie
