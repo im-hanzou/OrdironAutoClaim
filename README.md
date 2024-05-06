@@ -1,6 +1,6 @@
 # OrdironAutoClaim
 
-* https://oridron.com/airdrop/profile
+* [https://oridron.com/airdrop/profile](https://oridron.com/airdrop?refcode=1M1116)
 * Auto claim 1 ORD tiap 60 menit/jam
 
 Cara ambil cookie
